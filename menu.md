@@ -1,5 +1,5 @@
 ## Menu
-[Indian Food](#indian-food) | [Italian Food](#italian-food) | [Beverages](#beverages)
+[Indian Food](#indian-food) | [Italian Food](#italian-food) | [Yemeni](#yemeni-food) |[Beverages](#beverages)
 
 ## Indian Food
 
@@ -20,9 +20,16 @@
 | Ossobuco | Ossobuco is a Milanese dish made from veal shanks braised with a mix of onions, carrots, garlic, tomatoes, and red wine.         | ![food4](images/ossobuco.jpg) |  1199 |
 
 
+## Yemeni Food
+| Name       | Description                                                                                                                                                                                                                                           | Image                                | Price |
+|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|----|
+| Shakshouka | Shakshouka is a delicious combination of eggs poached in a spicy tomato sauce. Although it has an unusual name, the dish is straightforward and easy to make. It is usually made in a skillet in which onions, tomatoes, and spices are cooked until they form a delicious tomato sauce. | ![Shakshouka](images/shakshouka.jpg) | 84.69 |
+| Martabak  | Martabak is a roti-like stuffed and fried pancake which is often served as a popular street food item in countries such as Saudi Arabia, Yemen, Indonesia, and Malaysia. Although the fillings may vary, some of the most popular ones include ground meat, eggs, garlic, onions, peppers, curry, and ghee. | ![Martabak](images/martabak.jpg)     | 75 |
+| Jachnun    | Jachnun is a traditional Yemenite Jewish pastry or flatbread (or something in-between) of Adeni Jewish origin. The Yemenite Jewish immigrants have also popularized the dish in Israel. It's traditionally served for breakfast on Shabbat morning. The dough is made with a cobination of flour, white sugar, water, and margarine. | ![Jachnun](images/jachnun.jpg)       | 120 |
+
 ## Beverages
 | Name       | Description                                                                                                                                             | Image                     | Price |
 |:-----------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|------:|
 | Kratom tea | Kratom tea is made from kratom leaves that are steeped in boiling water. It has a stimulant or opioid-like effect on the body, depending on the dosage. | ![bev1](images/tommy.jpg) |    20 | 
 | Sugarcane Juice | Sugarcane juice is the liquid extracted from pressed sugarcane. It is consumed as a beverage in many places, especially where sugarcane is commercially grown, such as Southeast Asia, the Indian subcontinent, North Africa, mainly Egypt, and also in South America. | ![food1](images/sugarcanejuice_img.jpg) |    20 |        
-
+| Shahi haleeb |It is made from black tea powder brewed in condensed or evaporated milk. Cardamom pods and cloves are usually added to the tea, some recipes include added sugar. | ![Shahi haleeb](images/milk-tea.jpg) | 80 |
