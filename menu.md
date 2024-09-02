@@ -14,6 +14,6 @@
 > A table of beverages. Each team member adds one beverage (one row) to the table.
 > Result should be in alphabetical order by beverage name.
 
-| Beverages name | Description | Image                                 | Price |
-|--------------|-------------|---------------------------------------|-------|
-| Shahi haleeb |It is made from black tea powder brewed in condensed or evaporated milk. Cardamom pods and cloves are usually added to the tea, some recipes include added sugar. | ![Shahi haleeb](images/milk-tea.jpeg) |
+| Beverages name | Description | Image                                | Price |
+|--------------|-------------|--------------------------------------|-------|
+| Shahi haleeb |It is made from black tea powder brewed in condensed or evaporated milk. Cardamom pods and cloves are usually added to the tea, some recipes include added sugar. | ![Shahi haleeb](images/milk-tea.jpg) |
