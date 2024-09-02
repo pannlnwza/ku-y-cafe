@@ -13,6 +13,6 @@
 
 ## Beverages
 
-| Name            | Description                  | Image                                   | Price |
-|:----------------|:-----------------------------|-----------------------------------------|------:|
-| Sugarcane Juice | a menu written in *Markdown* | ![food1](images/sugarcanejuice_img.jpg) |    20 |        
+| Name            | Description                                                                                                                                                                                                                                                            | Image                                   | Price |
+|:----------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|------:|
+| Sugarcane Juice | Sugarcane juice is the liquid extracted from pressed sugarcane. It is consumed as a beverage in many places, especially where sugarcane is commercially grown, such as Southeast Asia, the Indian subcontinent, North Africa, mainly Egypt, and also in South America. | ![food1](images/sugarcanejuice_img.jpg) |    20 |        
